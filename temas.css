@@ -1,0 +1,34 @@
+.contenedor{
+
+    width: 100%;
+    height: 1200px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+   
+
+}
+
+.encabezado{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(43, 226, 43);
+    color: brown;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fuentesrenovables{
+
+    width: 100%;
+    height: 400px;
+    background-color: rgb(15, 11, 242);
+
+}
+.fuentesnorenovables{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(250, 245, 248);
+
+}
