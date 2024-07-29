@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 252, 252);
 }
 
 .principal {
@@ -17,5 +17,19 @@ body {
     background-image: url("images.jpg")
     
    
+
+}
+.titulo{
+
+font-size: 50px;
+text-align: center;
+color: rgb(196, 7, 7);
+}
+.img1{
+ height: 300px;
+ width: 300px;
+ background-image: url("circuitos.jpg");
+ background-repeat: no-repeat;
+ float: left;
 
 }
