@@ -1,35 +1,487 @@
 /* Temas del segundo período*/
 
-.texto {
-
+.texto{
+   
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(255, 252, 252);
+    color: rgb(7, 7, 7);
 }
-
-.principal {
-    display: flex;
-
+.principal{
+   display: flex;
+     
 }
-
-body {
-    background-image: url("images.jpg")
-    
+body{
+    background-image: url("fondo2.jpg");
    
-
 }
 .titulo{
 
 font-size: 50px;
 text-align: center;
-color: rgb(196, 7, 7);
+color: blue;
 }
-.img1{
- height: 300px;
- width: 300px;
- background-image: url("circuitos.jpg");
- background-repeat: no-repeat;
- float: left;
+
+.titulom2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(226, 59, 87);
+}
+
+
+
+
+.imagen1{
+    height: 300px;
+width: 600px;
+background-image: url(circuitos-eléctricos.jpg);
+background-repeat: no-repeat;
+float: center;
 
 }
+
+height: 800px;
+width: 400px
+background-image: url("cir");
+background-repeat: no-repeat;
+float:left;
+
+
+.titulo2{
+
+font-size: 50px;
+text-align: center;
+color: rgb(226, 59, 87);
+}
+
+.titulo3{
+
+font-size: 50px;
+text-align: center;
+color: brown;
+}
+
+.titulo4{
+
+font-size: 50px;
+text-align: center;
+color: brown;
+}
+
+.titulo5{
+ font-size: 50px;
+text-align: center;
+color: brown;
+}
+
+.imagenm1{
+height: 100px;
+width: 400px;
+background-image: url(polinomiouno.png);
+background-repeat: no-repeat;
+float: center;
+}
+
+.imagenm2{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen2.gif);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm3{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen3.gif);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm4{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen4.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm5{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen6.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm6{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen8.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm7{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen9.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+    .titulo6{
+        font-size: 50px;
+       text-align: center;
+       color: brown;
+    }
+
+
+.tituloq1{
+    font-size: 50px;
+   text-align: center;
+   color: brown;
+}
+
+.tituloq2{
+    font-size: 50px;
+   text-align: center;
+   color: brown;
+}
+
+.tituloq3{
+    font-size: 50px;
+   text-align: center;
+   color: brown;
+}
+
+.imagenq1{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imagenq1.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenq2{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagenq2.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+.imagenq3{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagenq3.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.titulos1{
+
+    font-size: 50px;
+    text-align: center;
+    color: brown;
+
+
+}
+
+.imagens1{height: 300px; ;
+    width: 600px;
+    background-image: url(imagens1.png);
+    background-repeat: no-repeat;
+    float: center;}
+
+    .imagens2{
+        height: 300px; ;
+    width: 600px;
+    background-image: url(imagens2.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagens3{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagens3.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+.titulos2{
+
+    font-size: 50px;
+    text-align: center;
+    color: brown;
+
+}
+
+.imagenso4{
+    height: 500px; ;
+    width: 1000px;
+    background-image: url(colonias.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.nombre1{
+
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+.nombre2{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+
+
+}
+
+.titulob1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+
+
+}
+
+.imgb1{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(cclb1.jpg) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+.titulob2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+
+}
+
+.imgb2{
+    height: 400px; ;
+    width: 500px;
+    background-image: url(cclb2.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+.titulob3{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.subtitulob1{
+    font-size: 50px;
+    text-align: left;
+    color: rgb(112, 6, 6);
+}
+
+.imgb3{
+    height: 200px; ;
+    width: 700px;
+    background-image: url(cclb3.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+.titulob4{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.subtitulob2{
+    font-size: 50px;
+    text-align: left;
+    color: rgb(112, 6, 6);
+}
+
+.imgb4{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(cclb4.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.titulob5{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.imgb5{
+    height: 800px; ;
+    width: 800px;
+    background-image: url(cclb5.jpg) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imgb6{
+    height: 300px; ;
+    width: 700px;
+    background-image: url(cclb6.png) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
+
+
+.maria{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url(maria.jpg) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
+
+.juan{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url(juan\ jose.jpg) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
+.imgt3{
+    height: 500px; ;
+    width: 600px;
+    background-image: url("funciones\ en\ excel.jpg") ;
+    background-repeat: no-repeat;
+    float: center;  
+}
+
+.imgi{
+
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("quimica.123.jpg");
+    background-repeat: no-repeat;
+    float: center;
+
+
+}
+
+.paz{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url(paz.jpg) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
+
+.imgi2{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("biologia.webp");
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imgi3{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("sociales.webp");
+    background-repeat: no-repeat;
+    float: center; 
+}
+
+.imgi4{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("matematicas.jpg");
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imgi5{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("tecnologia.jpg");
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
